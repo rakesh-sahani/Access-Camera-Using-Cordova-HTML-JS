@@ -10,9 +10,9 @@ git push -u origin master
 
 # After forking or Downloading the Repo. you have to must run this command
 # -------Command----------
-# npm install -g cordova
-# cordova create AppName .(If app is already created cd AppName)
-# cordova plugin add cordova-plugin-camera
-# cordova platform add android
-# cordova build android
-# cordova run android 
+ npm install -g cordova
+ cordova create AppName .(If app is already created cd AppName)
+ cordova plugin add cordova-plugin-camera
+ cordova platform add android
+ cordova build android
+ cordova run android 
